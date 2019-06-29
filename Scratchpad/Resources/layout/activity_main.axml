@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+    android:padding="15px">
+    
+    <TextView
+        android:id="@+id/textViewEntryCount"
+        android:textSize="18sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    />
+	
+    <Button
+		android:id="@+id/addEntryBtn"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="NEW ENTRY"
+		android:textSize="15sp"
+    />
+	    
+    <Button
+        android:id="@+id/buttonSendVATReport"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send VAT Report"
+        android:textSize="15sp"
+    />
+    
+    <Button
+        android:id="@+id/buttonDeleteAllEntries"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="delete all entries"
+        android:textSize="15sp"
+    />
+
+   
+
+
+</LinearLayout>

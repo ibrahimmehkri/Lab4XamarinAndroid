@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4E80A00C-C052-4836-B1AA-E4B1BD553926}|Default">
+  <MonoDevelop.Ide.ItemProperties.Scratchpad AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scratchpad/MainActivity.cs">
+    <Files>
+      <File FileName="Scratchpad/MainActivity.cs" Line="74" Column="29" />
+      <File FileName="Scratchpad/SecondActivity.cs" />
+      <File FileName="Scratchpad/DBHelper.cs" />
+      <File FileName="Scratchpad/DBContract.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Scratchpad" expanded="True">
+            <Node name="Scratchpad" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
